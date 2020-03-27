@@ -1,0 +1,248 @@
+body{
+  width:100%;
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  background-color: hsl(216, 53%, 9%);
+  color:#fff;
+}
+.back-img{
+  width:1255px;
+position: relative;
+bottom:300px;
+}
+#navbar{
+background-color: hsl(217, 28%, 15%);
+padding:0 60px;
+font-family: 'Raleway', sans-serif;
+}
+#navbar .h1{
+font-size: 50px;
+
+}
+#heading {
+  background-color: hsl(217, 28%, 15%);
+text-align: center;
+color:#fff;
+}
+#heading h1,button{
+position: relative;
+z-index: 1;
+
+}
+#heading p{
+  padding:10px 330px;
+margin: 3% 5%;
+position:relative;
+z-index: 1;
+}
+.row{
+text-align: center;
+width:100%;
+}
+body{
+background-color:hsl(218, 28%, 13%);
+color:#fff;
+
+}
+.btn1 {
+  position: relative;
+  top:60px;
+  font-family: arial;
+  color: #F2F2F2 !important;
+  font-size: 12px;
+  padding: 12px 80px;
+  -moz-border-radius: 40px;
+  -webkit-border-radius: 40px;
+  border-radius: 40px;
+  border: 1px solid #FFFCFD;
+  background: #65E2D9;
+  background: linear-gradient(top,  #65E2D9,   #339ECC);
+  background: -ms-linear-gradient(top,  #65E2D9,   #339ECC);
+  background: -webkit-gradient(linear, left top, left bottom, from(#65E2D9), to( #339ECC));
+  background: -moz-linear-gradient(top,  #65E2D9,   #339ECC);
+}
+.btn1:hover {
+  color: #FFFFFF !important;
+  background: #339ECC;
+  background: linear-gradient(top,  #339ECC,  #65E2D9);
+  background: -ms-linear-gradient(top,  #339ECC,  #65E2D9);
+  background: -webkit-gradient(linear, left top, left bottom, from(#339ECC), to(#65E2D9));
+  background: -moz-linear-gradient(top,  #339ECC,  #65E2D9);
+}
+.div1{
+text-align: center;
+padding:10px 230px;
+margin-bottom: 60px;
+position: relative;
+bottom: 200px;
+}
+.svg1{
+margin-bottom: 20px;
+}
+.col-lg-6{
+
+}
+.svg2{
+margin-bottom: 30px;
+}
+.div3{
+margin-top: 150px;
+
+}
+.text{
+position: relative;
+right:40px;
+
+}
+.text2{
+position: relative;
+left:40px;
+
+}
+.p3{
+  position:absolute;
+  top:150px;
+
+}
+#second-body img{
+float:left;
+position: relative;
+bottom:130px;
+padding-right: 40px;
+}
+#second-body{
+padding:0 75px;
+
+}
+#third-body .quotes{
+  position: relative;
+  right:620px;
+top:190px;
+}
+#third-body .col1 {
+  background-color: hsl(219, 30%, 18%);
+position: relative;
+left:150px;
+height: 250px;
+}
+.col2{
+  margin-left: 0 30px;
+}
+.spa1{
+  margin-right:30px;
+}
+.col3{
+  margin-left: 20px;
+  margin-right: 50px;
+}
+#third-body img{
+border-radius: 100%;
+float:left;
+width:50px;
+height:50px;
+position: relative;
+top:70px;
+}
+#third-body h6,.p1{
+font-size: 10px;
+padding:0 3px;
+position: relative;
+right: 60px;
+top:77px;
+}
+#footer-body{
+  background-color: hsl(217, 28%, 15%);
+  text-align: center;
+  margin-top: 150px;
+width:800px;
+height:300px;
+position:relative;
+left:250px;
+padding: 0 98px;
+z-index: 1;
+}
+#footer-body h2,p,.btn2,.form1{
+position: relative;
+top:70px;
+
+}
+.form1{
+  -moz-border-radius: 40px;
+  -webkit-border-radius: 40px;
+  border-radius: 40px;
+padding-left:90px;
+padding-right:90px;
+padding-top:5px;
+padding-bottom:5px;
+float:left;
+}
+.btn2 {
+  font-family: arial;
+  color: #F2F2F2 !important;
+  font-size: 12px;
+  padding: 8px 30px;
+  -moz-border-radius: 40px;
+  -webkit-border-radius: 40px;
+  border-radius: 40px;
+  border: 1px solid #FFFCFD;
+  background: #65E2D9;
+  background: linear-gradient(top,  #65E2D9,   #339ECC);
+  background: -ms-linear-gradient(top,  #65E2D9,   #339ECC);
+  background: -webkit-gradient(linear, left top, left bottom, from(#65E2D9), to( #339ECC));
+  background: -moz-linear-gradient(top,  #65E2D9,   #339ECC);
+}
+.btn2:hover {
+  color: #FFFFFF !important;
+  background: #339ECC;
+  background: linear-gradient(top,  #339ECC,  #65E2D9);
+  background: -ms-linear-gradient(top,  #339ECC,  #65E2D9);
+  background: -webkit-gradient(linear, left top, left bottom, from(#339ECC), to(#65E2D9));
+  background: -moz-linear-gradient(top,  #339ECC,  #65E2D9);
+}
+#footer{
+background-color: hsl(216, 53%, 9%);
+position: relative;
+bottom:80px;
+height:500px;
+}
+#footer h1{
+  position: relative;
+  top:55px;
+
+}
+.div21{
+width:25%;
+position: relative;
+top:100px;
+left:100px;
+}
+.div22{
+  position: relative;
+  left:500px;
+  width:250px;
+}
+.div23{
+  position: relative;
+  left:900px;
+  bottom:95px;
+  width:100px;
+}
+.div24{
+  position: relative;
+  left:1100px;
+  bottom:242px;
+  width:100px;
+}
+.div22 p:hover{
+background-color:  hsl(198, 60%, 50%);
+}
+.div21 p:hover{
+  background-color:  hsl(198, 60%, 50%);
+}
+.div23 p:hover{
+  background-color:  hsl(198, 60%, 50%);
+}
+.div24 p:hover{
+  background-color:  hsl(198, 60%, 50%);
+}
